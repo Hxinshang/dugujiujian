@@ -12,5 +12,10 @@ public class Dugu {
         System.out.println("jianfa ");
         System.out.println("jianfa  dugujiujian");
         System.out.println("jianfa  dugujiujian");
+        System.out.println("jianfa  dugujiujian hahhahaha");
+        System.out.println("jianfa  dugujiujian hahhahaha");
+        System.out.println("jianfa  dugujiujian hahhahaha");
+        System.out.println("jianfa  dugujiujian hahhahaha");
+
     }
 }
